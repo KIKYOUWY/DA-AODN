@@ -1,4 +1,4 @@
-## Degradation-Aware Aerial Object Detection Framework:Efficient Network Design and Multi-Degradation Dataset
+## Degradation-Aware Aerial Object Detection Framework:Multi-Degradation Dataset and Efficient Network Design
 
 ## Abstract
 ![](Figs/introduction.png)
