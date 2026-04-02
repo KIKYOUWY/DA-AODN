@@ -4,7 +4,7 @@
 ![](Figs/introduction.png)
 ## PipLine
 ![](Figs/pipline.png) 
-![](Figs/comparison graph.png)
+![](Figs/comparisongraph.png)
 ## Project Introduction
 The project is based on the [Diffusiondet](https://github.com/ShoufaChen/DiffusionDet) and [detectron2](https://github.com/facebookresearch/detectron2), maintaining the overall framework unchanged. For specific usage, you can refer to the [detectron2 documentation](https://detectron2.readthedocs.io/en/latest/).
 ## Datasets
